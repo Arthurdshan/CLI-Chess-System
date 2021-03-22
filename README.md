@@ -3,7 +3,7 @@ Chess system implemented in Java. No graphic interface and AI, **yet**.
 
 ## How to run?
 
-First you must have git installed. All you have to do is go for the bin folder, initiate git a,d type:
+First you must have git installed. All you have to do is go for the bin folder, initiate git and type:
 ```
 java application/Program
 ```
